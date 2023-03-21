@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: rgb(202, 201, 201);
+}
+#main-navbar{
+    background-color: grey !important;
+    min-height: 75px;
+}
+
+
+.header_wrapper .nav-item .nav-link, .navbar-brand{
+    color: black;
+    font-weight: 500;
+}
+
+.navbar-brand{
+    font-weight: bold;
+}
+
+.m-heading{
+    margin-top: 83px;
+}
+
+
+/* SIGN UP FORM SECTION */
+.signup-form{
+    height: 400px;
+    background-color: white;
+    margin-top: 120px !important;
+}
