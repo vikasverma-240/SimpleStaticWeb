@@ -34,3 +34,15 @@ body{
     background-color: white;
     margin-top: 120px !important;
 }
+
+
+.input-group{
+    border: none;
+    outline: none;
+    padding-top: 5px;
+}
+
+.f-control{
+    margin-top: 139px;
+    margin-left: 118px;
+}
